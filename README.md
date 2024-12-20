@@ -9,11 +9,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bstluo&label=Profile%20views&color=0e75b6&style=flat" alt="bstluo" /> </p>
 
-- 🔭 快来和我一起丸！(I’m currently working on) [Koishi](https://koishi.chat/zh-CN/)
+- 🔭 快来和我一起丸[Koishi](https://koishi.chat/zh-CN/)！(I’m currently working on [Koishi](https://koishi.chat/zh-CN/))
 
-- 👯 快来加入我！(I’m looking to collaborate on) [Word-Core](https://github.com/BSTluo/koishi-plugin-word-core)
+- 👯 快来加入我 [Word-Core](https://github.com/BSTluo/koishi-plugin-word-core)！(I’m looking to collaborate on  [Word-Core](https://github.com/BSTluo/koishi-plugin-word-core))
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
