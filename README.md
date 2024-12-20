@@ -8,6 +8,9 @@
 - 👯 快来加入我 [Word-Core](https://github.com/BSTluo/koishi-plugin-word-core)！(I’m looking to collaborate on  [Word-Core](https://github.com/BSTluo/koishi-plugin-word-core))
 
 <p align="left">
+
+***
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,12 +18,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BSTluo)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bstluo&" alt="bstluo" /></p>
-
 ![Lorin-github](https://github-readme-stats.vercel.app/api?username=BSTluo)
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BSTluo/BSTluo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BSTluo/BSTluo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BSTluo/BSTluo/output/github-contribution-grid-snake.svg">
 </picture>
+-->
